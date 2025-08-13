@@ -89,7 +89,9 @@ Internet connection is required for PokéAPI requests and sprite loading.
 
 ## 📄 License
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
 You are free to share and adapt the materials in this repository for any purpose, even commercially, **as long as you give appropriate credit** by mentioning my name **(Devynth Mario)** and linking back to this repository.
+
 © 2025 Devynth Mario. All rights reserved.
 
 ## 📦 requirements.txt
