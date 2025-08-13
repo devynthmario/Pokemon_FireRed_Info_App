@@ -87,12 +87,18 @@ Missing icons are replaced with plain text type labels.
 
 Internet connection is required for PokéAPI requests and sprite loading.
 
-## 📄 License
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+## 📜 License
 
-You are free to share and adapt the materials in this repository for any purpose, even commercially, **as long as you give appropriate credit** by mentioning my name **(Devynth Mario)** and linking back to this repository.
+This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+- **Non-Commercial Use Only**: You are free to share and adapt the materials in this repository **for non-commercial purposes only**.  
+- **Attribution Required**: Please give appropriate credit by mentioning my name **(Devynth Mario)** and linking back to this repository.  
+- **Image Sources**: Certain visual assets are inspired by or sourced from:
+  - [Bulbagarden](https://bulbagarden.net/home/)
+  - © Pokémon images and names are trademarks of **The Pokémon Company International, Inc.**
 
 © 2025 Devynth Mario. All rights reserved.
+
 
 ## 📦 requirements.txt
 requests>=2.32.0
