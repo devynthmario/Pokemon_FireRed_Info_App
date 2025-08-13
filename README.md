@@ -69,6 +69,7 @@ python main.py
 
 🖼️ Screenshots
 ✅ Pokémon Info Example (Charizard)
+
 <img width="496" height="528" alt="image" src="https://github.com/user-attachments/assets/2583b8d3-15f3-463f-8503-53b17bc25cfb" />
 
 ❌ Not in FireRed Pokédex Example
