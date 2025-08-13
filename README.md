@@ -68,15 +68,15 @@ python main.py
 3. View sprite, types, and evolution details
 
 ## 🖼️ Screenshots
-#✅ Pokémon Info Example (Charizard)
+##✅ Pokémon Info Example (Charizard)
 
 <img width="496" height="528" alt="image" src="https://github.com/user-attachments/assets/2583b8d3-15f3-463f-8503-53b17bc25cfb" />
 
-#❌ Not in FireRed Pokédex Example
+##❌ Not in FireRed Pokédex Example
 
 <img width="497" height="530" alt="image" src="https://github.com/user-attachments/assets/0912ff37-7937-4104-9638-67d56037cfc0" />
 
-#⬜ Empty Search
+##⬜ Empty Search
 
 <img width="497" height="529" alt="image" src="https://github.com/user-attachments/assets/47c0f97b-beac-4631-a794-a44efea85e2e" />
 
