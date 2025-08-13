@@ -71,7 +71,7 @@ def get_pokemon_info():
 
     try:
         if pokemon_name not in firered_pokemon:
-            raise ValueError("This Pokémon is not in the FireRed Pokédex.")
+            raise ValueError("Not in FireRed Pokédex — check the name please.")
 
         details_url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_name}"
         details_data = requests.get(details_url, timeout=10).json()
